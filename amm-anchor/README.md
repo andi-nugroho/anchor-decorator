@@ -18,11 +18,11 @@ Since there is no setup guide or usage documentation yet, here’s a generic gui
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/prince981620/amm-anchor.git
+   git clone https://github.com/andi-nugroho/anchor-decorator.git
    cd amm-anchor
    ```
 
-2. **Install Rust**  
+2. **Install Rust**
    Ensure you have [Rust](https://www.rust-lang.org/tools/install) installed.
 
 3. **Install Anchor (if using Solana)**
