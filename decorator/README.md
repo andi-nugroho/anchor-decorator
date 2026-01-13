@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prince981620/decorator.git
+   git clone https://github.com/andi-nugroho/anchor-decorator.git
    cd decorator
    ```
 
